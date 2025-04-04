@@ -1,5 +1,4 @@
-## Hi techies 👋
-## Swaroop Here!......
+## Hi techies 👋 Swaroop Here!......
 
 <!--
 **swaroopmeda/swaroopmeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
